@@ -1,3 +1,9 @@
+## Please see zenodo for full back-up:
+
+**zenodo:** https://doi.org/10.5281/zenodo.21401203
+
+**code.zip** is the code to create the Deep Zoom Image (DZI) pyramid, and **website.zip** are the files deployed to host the site on github. OpenSeadragon was used for viewing the DZI pyramid.
+
 ## External data used to produce this website can be found at:
 
 **../FINAL_PROCRUSTES_COORDS:** https://zenodo.org/records/20722855  
